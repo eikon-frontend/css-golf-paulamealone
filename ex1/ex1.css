@@ -1,2 +1,13 @@
 /* 🦊 Créez vos styles ici */
 /* Colors: #5d3a3a, #b5e0ba  */
+
+body {
+    background-color: #5d3a3a;
+}
+
+.carré {
+    background-color: #b5e0ba;
+    height: 200px;
+    width: 200px;
+
+}
